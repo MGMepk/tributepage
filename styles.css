@@ -1,0 +1,28 @@
+
+body {
+    background-color: silver;
+    text-align: center;
+    line-height: 1.5;
+}
+
+#photo{
+    margin-top: 1em;
+    background-color: white;
+}
+
+#retrato{
+    padding-top: 1em;
+    margin-right: 2em;
+    border-radius: 50%;
+}
+
+li{
+    margin-top: 1em;
+    font-weight: bold;
+}
+
+#lista{
+    text-align: justify;
+    padding-left: 6vw;
+    padding-right: 6vw;
+}
